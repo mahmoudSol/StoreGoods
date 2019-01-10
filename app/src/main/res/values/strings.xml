@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoreGoods</string>
+    <string name="action_delete">Delete All</string>
+    <string name="Product_name">Product</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Price">Price</string>
+    <string name="Supplier">Supplier</string>
+    <string name="save_Product">Save</string>
+    <string name="delete_edit">delete</string>
+    <string name="Take_Photo">Photo</string>
+    <string name="editor_insert_product_failed">error insert the Product</string>
+    <string name="editor_insert_product_successful">Item Saved</string>
+    <string name="editor_update_Item_failed">update failed</string>
+    <string name="editor_update_Item_successful">update successful</string>
+    <string name="editore_add_item">Add new Item</string>
+    <string name="editore_edit_item">Edit Item</string>
+    <string name="delete_dialog_msg">Delete this Item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_pet_failed">Error with deleting Item</string>
+    <string name="editor_delete_pet_successful">Item deleted</string>
+    <string name="barcod_empty">UnKnown Barcode</string>
+    <string name="empty_view_title_text">It\'s No Item here...</string>
+    <string name="Barcode">the Barcode</string>
+    <string name="empty_view_subtitle_text">Get started by adding Item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+    <string name="dafault_name">Unknown item</string>
+    <string name="Metre_unite">Metre</string>
+    <string name="Kg_unite">Kg</string>
+    <string name="Item_unite">Item</string>
+    <string name="Package_unite">Package</string>
+</resources>

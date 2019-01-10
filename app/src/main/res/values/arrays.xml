@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_quantity_options">
+        <item>@string/Item_unite</item>
+        <item>@string/Kg_unite</item>
+        <item>@string/Metre_unite</item>
+    </string-array>
+
+    <string-array name="array_price_option">
+        <item>@string/Package_unite</item>
+        <item>@string/Kg_unite</item>
+        <item>@string/Metre_unite</item>
+
+    </string-array>
+</resources>
